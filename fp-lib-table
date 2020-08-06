@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name lightreader)(type KiCad)(uri C:/Users/kle/Documents/GitHub/lightreader/lightreader)(options "")(descr "")(disabled))
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib)(options "")(descr ""))
+)
